@@ -7,6 +7,6 @@ bits and there are three instruction formats: R-type, I-type, and J-type.
 
 ## How to Run 
 
-- First you need to download logisim app from ![***Her***](http://www.cburch.com/logisim/)
+- First you need to download logisim app from [***Her***](http://www.cburch.com/logisim/)
 - you can open the project from logisim and deal with it if you understand the building blocks.
-- if you need to know more about the spesifications you can open that ![PDF](Project_ Spring_2022.pdf)
+- if you need to know more about the spesifications you can open that ![PDF](/Project_ Spring_2022.pdf)
